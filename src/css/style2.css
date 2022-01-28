@@ -1,0 +1,348 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu{
+   float: left;
+    padding-left: 430px;
+}
+
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.main{
+height: 900px;
+    box-shadow: 0px 0px 0px #000;
+    margin: 0px;
+    background:url(../img/bg.jpg) ;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.title__container{
+    padding-top: 220px;
+ float: left;
+    padding-left: 520px;
+    text-align: center;
+}
+
+.title__container h1{
+    color: #2c384a;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title__container h4{
+    float: left;
+    color: #8b919c;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #79818d;
+    background: none;
+    border-radius: 5px;
+    color: #79818d;
+    font-size: 17px;
+    padding: 0px 16px;
+    margin: 30px 14px 0px 14px;
+}
+
+
+
+
+
+
+.mne{
+    text-align: center;
+    color: #263244;
+    font-size: bold;
+}
+
+.i{
+    padding-left: 875px;
+}
+
+.one_span{
+    text-align: center;
+    padding-left: 650px;
+    color: #525a68;
+}
+
+.input_second{
+    color: #525a68;
+    margin-left: 850px;
+}
+
+
+
+
+
+
+
+.ia_ymeu{
+    background: url(../img/fon.jpg);
+    height: 450px;
+    box-shadow: 0px 0px 0px #000;
+    margin: 0px;
+}
+
+.ia_ymeu h2{
+    text-align: center;
+    font-size: bold;
+    padding-top: 50px;
+    color: #cf7600 ;
+}
+
+.menu2 h4{
+    color: #cf7600 ;
+}
+
+
+.menu2 li{
+    float: left;
+    padding-left: 30px;
+    margin-left: 150px;
+}
+
+
+
+
+
+
+.keys{
+    text-align: center;
+}
+
+.keys_p{
+    text-align: center;
+    font-size: 13px;
+}
+
+.keys_foto{
+    margin-left: 30%;
+}
+
+
+
+
+.div_case{
+    float: left;
+    width: 150px;
+    margin-left: 30%;
+}
+
+.div_case2{
+    padding-left: 45%;
+}
+
+
+.div_case input{
+    background: #63b5ae;
+    height: 30px;
+    color: white;
+    font-size: bold;
+    border-radius: 5px;
+    border: 0px;
+    width: 150px;
+}
+
+
+
+
+
+
+.stoimost{
+    text-align: center;
+}
+
+.stoimost_h{
+    margin-left: 30%;
+}
+
+.stoinost_select{
+    margin-left: 30%;
+    width: 740px;
+    height: 40px;
+    background-color: #eeeeee;
+}
+
+.srok{
+    margin-left: 30%;
+}
+.srok2{
+    margin-left: 30%;
+}
+
+
+
+
+.h2_1{
+    text-align: center;
+    color: #323e4f;
+}
+
+
+
+.font{
+    background: url(../img/fon_1.jpg) no-repeat;
+    height: 450px;
+}
+
+.font li{
+    margin-left: 250px;
+    float: left;
+    padding-left: 0px;
+}
+
+.font img{
+    margin-left: 29%;
+}
+
+.font h4{
+    color: #323e4f;
+    font-size: 22px;
+    text-align: center;
+}
+
+.font p{
+    text-align: center;
+    color: #323e4f;
+
+}
+
+
+
+
+
+
+.otziv h2{
+    text-align: center;
+}
+
+.otziv img{
+    margin-left: 890px;
+}
+
+.otziv p{
+    text-align: center;
+}
+
+
+
+
+.contact{
+    background: url(../img/city.jpg) no-repeat;
+}
+
+.contact h2{
+    text-align: center;
+}
+.txt{
+    text-align: center;
+}
+
+.one{
+float: left;
+padding-left: 30%;
+
+}
+.two{
+float: left;
+padding-left: 150px;
+
+}
+.three{
+float: left;
+padding-left: 150px;
+
+}
+
+.one p{
+    text-align: center;
+}
+
+.img1{
+    margin-left: 25%;
+}
+
+.contact h4{
+    text-align: center;
+}
+
+.ima{
+ margin-left: 33%; 
+ 
+}
+
+.ima input{
+    width: 25%;
+    height: 20%;
+}
+
+
+textarea{
+    margin-left: 33%;
+
+}
+
+.fotki{
+    margin-left: 38%;
+    
+}
+
+.fotki img{
+    margin-left: 3%;
+}
+
+
+
+
+footer{
+
+background-color: #354051;   
+}
+footer p{
+    text-align: center;
+
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
